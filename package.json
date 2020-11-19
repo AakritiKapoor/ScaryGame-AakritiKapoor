@@ -1,0 +1,17 @@
+{
+  "name": "scarygame",
+  "version": "1.0.0",
+  "description": "A popular theme for summer holidays is to tell ghost stories.",
+  "main": "Elevator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aakriti Kapoor",
+  "license": "MIT",
+  "dependencies": {
+    "body-parse": "^0.1.0",
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "readline-sync": "^1.4.10"
+  }
+}
